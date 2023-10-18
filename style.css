@@ -165,6 +165,11 @@ li{
     margin-top: -160px;
 
   }
+  .img-three{
+    margin-top: 100px;
+    width: 250px;
+    filter: drop-shadow(5px 5px 5px #666666);
+  }
 
   footer{
     background-color: rgb(29, 46, 46) ;
